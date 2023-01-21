@@ -9,7 +9,7 @@
 
 <br />
 
-hi, I'm [Aakash Patwardhan](https://aakash2201.github.io/Personal-Website/), a passionate self-taught full stack web developer and an aspiring Writer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+hi, I'm [Nikhil Lakde](https://aakash2201.github.io/Personal-Website/), a passionate self-taught full stack web developer and an aspiring Writer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I love to create new things and I like to tell new stories. My goal is to tell Indian stories which can make impact on world. I also share my thoughts, life experiences and short stories on my blog named as ["Sky & Beyond"](https://sky-n-beyond.blogspot.com/)
 
@@ -43,9 +43,7 @@ with something or just for saying hello, then get in touch.
 </a>
 
 
-<h2>Now Playing 🎧</h2>
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31yhho2fbnffojp4ddhtr3fgg7ia)
 <br>
   
 ## Endorsements ✅
