@@ -14,8 +14,6 @@ hi, I'm [Nikhil Lakde](https://aakash2201.github.io/Personal-Website/), a passio
 I love to create new things and I like to tell new stories. My goal is to tell Indian stories which can make impact on world. I also share my thoughts, life experiences and short stories on my blog named as ["Sky & Beyond"](https://sky-n-beyond.blogspot.com/)
 
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
   
 If you have a project that you want to get started, or if you need my help
 with something or just for saying hello, then get in touch. 
