@@ -1,14 +1,11 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.instagram.com/___aakashpat___/" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />
-<a href="https://sky-n-beyond.blogspot.com/" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/1200px-Blogger.svg.png" />
-<a href="https://twitter.com/aakash_milind">
-  <img align="left" alt="Aakash patwardhan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/aakash-patwardhan-5700681a0/">
-  <img align="left" alt="Aakash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+
+
+<a href="https://www.linkedin.com/in/nikhil-lakde-65b99b1a9/>
+  <img align="left" alt="Nikhils's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=aakash2201.aakash2201)
+![](https://visitor-badge.glitch.me/badge?page_id=nikhillakde.nikhillakde)
 
 <br />
 
@@ -22,7 +19,7 @@ I love to create new things and I like to tell new stories. My goal is to tell I
   
 If you have a project that you want to get started, or if you need my help
 with something or just for saying hello, then get in touch. 
-**[Contact Me ➡](patwardhanaakash007@gmail.com)**
+**[Contact Me ➡](nikhillakde2001@gmail.com)**
 
 
 
@@ -41,7 +38,7 @@ with something or just for saying hello, then get in touch.
 
 </br>
 
-<a href="https://github.com/aakash2201">
+<a href="https://github.com/nikhillakde">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakash2201&theme=dark&hide_langs_below=1" />
 </a>
 
@@ -53,4 +50,4 @@ with something or just for saying hello, then get in touch.
   
 ## Endorsements ✅
   
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=aakash2201&show_icons=true&theme=gotham" alt="aakash2201" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=nikhillakde&show_icons=true&theme=gotham" alt="nikhillakde" />
