@@ -1,49 +1,24 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# 💫 About Me:
+👋 Hi there! I'm Nikhil Lakde, a passionate full-stack developer with 3 Months of experience.<br><br>💻 I have a strong background in developing web applications using modern technologies and frameworks. I'm comfortable working with front-end technologies, allowing me to create seamless end-to-end solutions.<br><br>🌐 On the front-end, I specialize in building responsive and intuitive user interfaces using HTML, CSS, and JavaScript. I have hands-on experience with popular front-end framework like React and I'm always eager to explore new tools and libraries.<br><br>🚀 I'm a strong believer in agile methodologies and thrive in collaborative environments. I enjoy working closely with designers and product managers to translate ideas into scalable and high-performance applications.<br><br>📚 Continuous learning is at the core of my journey, and I actively keep up with the latest industry trends and best practices. I'm constantly expanding my skill set and experimenting with new technologies to deliver the best possible solutions.<br><br>🌟 Some of the technologies and tools I frequently work with include:<br>- Front-end: HTML, CSS, JavaScript, React, Bootstrap<br>- Back-end: Node.js, Python, SQL<br>- Version Control: Git, GitHub<br>- Deployment: Heroku, Github Pages<br><br>📫 Feel free to connect with me on GitHub or reach out via email. I'm always excited to collaborate on interesting projects or discuss new ideas!<br><br>Happy coding! 🚀<br>
 
 
-<a href="https://www.linkedin.com/in/nikhil-lakde-65b99b1a9/>
-  <img align="left" alt="Nikhils's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikhil-lakde-65b99b1a9/) 
 
-![](https://visitor-badge.glitch.me/badge?page_id=nikhillakde.nikhillakde)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NikhilLakde&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NikhilLakde&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilLakde&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NikhilLakde&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-hi, I'm [Nikhil Lakde](https://aakash2201.github.io/Personal-Website/), a passionate self-taught full stack web developer and an aspiring Writer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-I love to create new things and I like to tell new stories. My goal is to tell Indian stories which can make impact on world. I also share my thoughts, life experiences and short stories on my blog named as ["Sky & Beyond"](https://sky-n-beyond.blogspot.com/)
+---
+[![](https://visitcount.itsvg.in/api?id=NikhilLakde&icon=0&color=6)](https://visitcount.itsvg.in)
 
-
-  
-If you have a project that you want to get started, or if you need my help
-with something or just for saying hello, then get in touch. 
-**[Contact Me ➡](nikhillakde2001@gmail.com)**
-
-
-
-## Skills 🎨
-
-<br>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://cpng.pikpng.com/pngl/s/204-2047555_datei-java-logo-svg-java-logo-svg-clipart.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://i.redd.it/31b2ii8hchi31.jpg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
-<br>
-
-</br>
-
-<a href="https://github.com/nikhillakde">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakash2201&theme=dark&hide_langs_below=1" />
-</a>
-
-
-
-<br>
-  
-## Endorsements ✅
-  
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=nikhillakde&show_icons=true&theme=gotham" alt="nikhillakde" />
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
